@@ -502,7 +502,7 @@ Architecture must align with **how teams build and deliver software**.
 Example repository demonstrating the concepts discussed in this article:
 
 ```
-(GitHub repository link placeholder)
+[(GitHub repository link placeholder)](https://github.com/utkarshut/modern-frontend-architecture-angular-microfrontends)]
 ```
 
 ---
