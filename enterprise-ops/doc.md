@@ -501,9 +501,7 @@ Architecture must align with **how teams build and deliver software**.
 
 Example repository demonstrating the concepts discussed in this article:
 
-```
-[(modern-frontend-architecture-angular-microfrontends)](https://github.com/utkarshut/modern-frontend-architecture-angular-microfrontends)
-```
+[modern-frontend-architecture-angular-microfrontends](https://github.com/utkarshut/modern-frontend-architecture-angular-microfrontends)
 
 ---
 
