@@ -1,0 +1,9 @@
+<h2>Reports Remote Loaded Successfully</h2>
+ <p>Last refresh: {{ lastRefresh() }}</p>
+<p *ngIf="selectedUser(); else noUser">
+    Showing reports for: {{ selectedUser() }}
+</p>
+
+<ng-template #noUser>
+    <p>No user selected.</p>
+</ng-template>
